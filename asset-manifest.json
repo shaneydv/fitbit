@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fitbit/static/css/main.bb3aabb1.chunk.css",
+    "main.js": "/fitbit/static/js/main.6e21b3fd.chunk.js",
+    "main.js.map": "/fitbit/static/js/main.6e21b3fd.chunk.js.map",
+    "runtime-main.js": "/fitbit/static/js/runtime-main.523b7468.js",
+    "runtime-main.js.map": "/fitbit/static/js/runtime-main.523b7468.js.map",
+    "static/js/2.1e1e7bb3.chunk.js": "/fitbit/static/js/2.1e1e7bb3.chunk.js",
+    "static/js/2.1e1e7bb3.chunk.js.map": "/fitbit/static/js/2.1e1e7bb3.chunk.js.map",
+    "static/js/3.7fd4305a.chunk.js": "/fitbit/static/js/3.7fd4305a.chunk.js",
+    "static/js/3.7fd4305a.chunk.js.map": "/fitbit/static/js/3.7fd4305a.chunk.js.map",
+    "index.html": "/fitbit/index.html",
+    "static/css/main.bb3aabb1.chunk.css.map": "/fitbit/static/css/main.bb3aabb1.chunk.css.map",
+    "static/js/2.1e1e7bb3.chunk.js.LICENSE.txt": "/fitbit/static/js/2.1e1e7bb3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.523b7468.js",
+    "static/js/2.1e1e7bb3.chunk.js",
+    "static/css/main.bb3aabb1.chunk.css",
+    "static/js/main.6e21b3fd.chunk.js"
+  ]
+}
